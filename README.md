@@ -2,17 +2,18 @@
 
 ### Overview and Origin
 
-Wealthsimple incorporated in September 2014 and the founder of the company is Michael Katchen who had worked for 1000Memories (a Silicon Valley-based startup) prior to founding Wealthsimple. The idea of Wealthsimple came from the time that Katchen worked in his previous company (1000Memories), he developed a spreadsheet with tips to help his colleagues set up investment portfolios by themselves without consulting with advisors which inspired the idea for Wealthsimple (Heidi, 2022). After the company was established, Katchen had an idea to make the investment simple which can be accessible for the vast majority. Katchen raised 2 million from 15 angel investors within two and half weeks in 2014 (Mike, 2015) and he got $30 million from Power Financial in 2015 with two separate installments ($10 million in 2015 and $20 million 12 months after 1st installment) (Quentin, 2015). <br />
-Power Financial was the major investor in the past few years with total investment of $265 million from 2015 to 2019 (Clare, 2020) and became the primary owner of Wealthsimple with 77.4% holding shares (Heidi, 2022). <br />
+Wealthsimple incorporated in September 2014 and the founder of the company is Michael Katchen who had worked for 1000Memories (a Silicon Valley-based startup) prior to founding Wealthsimple. The idea of Wealthsimple came from the time that Katchen worked in his previous company (1000Memories), he developed a spreadsheet with tips to help his colleagues set up investment portfolios by themselves without consulting with advisors which inspired the idea for Wealthsimple [^Heidi]. After the company was established, Katchen had an idea to make the investment simple which can be accessible for the vast majority. Katchen raised 2 million from 15 angel investors within two and half weeks in 2014 [^Mike] and he got $30 million from Power Financial in 2015 with two separate installments ($10 million in 2015 and $20 million 12 months after 1st installment) [^Quentin]. <br />
+Power Financial was the major investor in the past few years with total investment of $265 million from 2015 to 2019 [^Clare] and became the primary owner of Wealthsimple with 77.4% holding shares [^Heidi]. <br />
 
 ## Business Activities
 The founder’s idea for Wealthsimple was fully integrated into its business. It not only simplified the process of advisory by using algorithmic investment and saving programs (Alan, 2021) but also reduced the fee to the clients by digitalizing the documents and cutting the middleman (advisors) (Wealthsimple, 2021). As was mentioned on Wealthsimple website, 50% of the fees the clients paid were the advisors’ sales commissions at traditional wealth management firms and banks and those have huge back offices to support with traditional methods including paper documents for all legal and tracking purposes. Wealthsimple was a tech startup and it was managed cost efficiently in the way that it kept the cost to the minimum by introducing the most up-to-date technology. While it was hard for those traditional well established wealth management firms and banks to do so as they have many fixed costs  and legacy costs. <br />
-Based on the review from Investopedia, Wealthsimple was a good fit for investors of all ages who were looking to save money (Alan, 2021). Its intended customers were millennials who were looking for full transparency in communication as well as socially responsible investing (Caroline, 2018). As of Q4 2021, Wealthsimple had 1.5 million Canadian clients with $15 billion assets under management. It has grown significantly, especially in 2021 due to the pandemic, people think more seriously about their financials by using digital technology (Noelle, 2021)  <br />
+Based on the review from Investopedia, Wealthsimple was a good fit for investors of all ages who were looking to save money (Alan, 2021). Its intended customers were millennials who were looking for full transparency in communication as well as socially responsible investing (Caroline, 2018). As of Q4 2021, Wealthsimple had 1.5 million Canadian clients with $15 billion assets under management. It has grown significantly, especially in 2021 due to the pandemic, people think more seriously about their financials by using digital technology (Noelle, 2021).  <br />
 People chose Wealthsimple not only because it was the largest and leading robo advising firm in Canada, but also because it offered services that were not available in other Canadian robo advising firms. Below is a list of the unique services.<br />
 - Halal investing (only available in Wealthsimple for robo advising (Andrew, 2022))
 - Social Responsible investing (only available in Wealthsimple, WealthBar and ModernAdvisors for robo advising (Andrew, 2022))
 - No minimum balance requirement (only available in Wealthsimple and NestWealth for robo advising (Andrew, 2022))
-- Simple fees structure (only have two tiers of fee structures and no other hidden fees) (only available in Wealthsimple for robo advising firms (Andrew, 2022))<br />
+- Simple fees structure (only have two tiers of fee structures and no other hidden fees) (only available in Wealthsimple for robo advising firms (Andrew, 2022))<br /> 
+
 As mentioned, Wealthsimple was a tech startup and all those leading offerings were supported by strong technologies. According to G2 Stack, Wealthsimple used 29 technologies for its products and services to build up the apps for trading, crypto, tax and Cash, which included HTML5, Google Analytics, and JQuery (Crunchbase, 2022). According to BuiltWith, Wealthsimple used 63 technologies for its website which included Viewport Meta, IPhone/Mobile Compatible and Google Font API (Crunchbase, 2022). According to Stackashare, Wealthsimple used 6 technologies in business operations, which included Slack, Jira, Zendesk and 1Password (Stackashare, 2022).<br />
 
 ## Landscape:
@@ -49,55 +50,57 @@ I believe Wealthsimple can achieve the goal of expandation with either of the ab
 
 # Bibliography
 
-Heidi Unrau “Who owns wealthsimple the answer may surprise you” Hardbacon,  February 14th 2022,
+[^Heidi]: Heidi Unrau “Who owns wealthsimple the answer may surprise you” Hardbacon,  February 14th 2022,
 https://hardbacon.ca/en/investing/who-owns-wealthsimple-the-answer-may-surprise-you/
 
-Mike Katchen “How Wealthsimple raised $2-million in two weeks” Globe and mail, August 11th 2015,
+[^Mike]: Mike Katchen “How Wealthsimple raised $2-million in two weeks” Globe and mail, August 11th 2015,
 https://www.theglobeandmail.com/report-on-business/small-business/sb-money/how-wealthsimple-raised-2-million-in-two-weeks/article25882942/?utm_content=buffer87729&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
 
-Quentin Casey “Wealthsimple aims to turn financial services industry on its head with new low-cost approach to investing” Financial post, April 10th 2015, 
+[^Quentin]: Quentin Casey “Wealthsimple aims to turn financial services industry on its head with new low-cost approach to investing” Financial post, April 10th 2015, 
 https://financialpost.com/entrepreneur/fp-startups/wealthsimple-aims-to-turn-financial-services-industry-on-its-head-with-new-low-coast-approach-to-investing
 
-Alan Farley “Wealthsimple Review” Investopedia, January 29th 2021,
+[^Alan]: Alan Farley “Wealthsimple Review” Investopedia, January 29th 2021,
 https://www.investopedia.com/wealthsimple-review-4684946
-Wealthsimple “how does wealthsimple work” Wealthsimple, April 30th 2021,
+
+[^Wealthsimple]: Wealthsimple “how does wealthsimple work” Wealthsimple, April 30th 2021,
 https://www.wealthsimple.com/en-ca/magazine/how-does-wealthsimple-work
 
-Caroline Tell “Wealthsimple Knows How Millennials Want To Invest”, Forbes, September 18th 2018
+[^Caroline]: Caroline Tell “Wealthsimple Knows How Millennials Want To Invest”, Forbes, September 18th 2018
 https://www.forbes.com/sites/carolinetell/2018/09/20/wealthsimple-knows-how-millennials-want-to-invest/?sh=51bf4f2d40b7
 
-Noelle Boughton “How Wealthsimple's advisory team grew 200% during the pandemic” Wealth professional, October 4th 2021, 
+[^Noelle]: Noelle Boughton “How Wealthsimple's advisory team grew 200% during the pandemic” Wealth professional, October 4th 2021, 
 https://www.wealthprofessional.ca/investments/wealth-technology/how-wealthsimples-advisory-team-grew-200-during-the-pandemic/360396#:~:text=Wealthsimple%20now%20has%201.5%20million,him%20to%20attract%20more%20talent
 
-Michael Mccullough “A guide to the best robo-advisors in Canada for 2022” Moneysense, January 7th 2022,
+[^Michael]: Michael Mccullough “A guide to the best robo-advisors in Canada for 2022” Moneysense, January 7th 2022,
 https://www.moneysense.ca/save/investing/best-robo-advisors-in-canada/
 
-IE staff “ RBC launches robo-advisor platform” Investment executive, November 29th 2018, 
+[^IE]: IE staff “ RBC launches robo-advisor platform” Investment executive, November 29th 2018, 
 https://www.investmentexecutive.com/news/industry-news/rbc-launches-robo-advisor-platform/
 
-Ryan W.Neal “TD Bank’s new robo sure looks a lot like TD Ameritrade’s old robo” Financial Planning, October 21th 2021,
+[^Ryan]: Ryan W.Neal “TD Bank’s new robo sure looks a lot like TD Ameritrade’s old robo” Financial Planning, October 21th 2021,
 https://www.financial-planning.com/opinion/td-bank-launches-new-robo#:~:text=TD%20Ameritrade%20launched%20Essential%20Portfolios,of%20Schwab's%20digitally%20advised%20assets.
-Clare O’Hara “Why Wealthsimple and robo-advisers aren’t scaring Bay Street anymore” The globe and mail, February 9th 2020,
+
+[^Clare]: Clare O’Hara “Why Wealthsimple and robo-advisers aren’t scaring Bay Street anymore” The globe and mail, February 9th 2020,
 https://www.theglobeandmail.com/business/article-the-grim-reality-for-wealthsimple-and-its-peers-robo-advisers-are/
 
-Arielle O’shea “Wealthsimple Review 2021: Pros, Cons and How It Compares” Nerdwallet, June 24th 2021,
+[^Arielle]: Arielle O’shea “Wealthsimple Review 2021: Pros, Cons and How It Compares” Nerdwallet, June 24th 2021,
 https://www.nerdwallet.com/reviews/investing/advisors/wealthsimple
 
-Alana Benson “Betterment Review 2022: Pros, Cons and How It Compares” Nerdwallet, January 19th 2022,
+[^Alana]: Alana Benson “Betterment Review 2022: Pros, Cons and How It Compares” Nerdwallet, January 19th 2022,
 https://www.nerdwallet.com/reviews/investing/advisors/betterment
 
-Tiffany Lam-Balfour, Elizabeth Ayoola “Wealthfront Review 2022: Pros, Cons and How It Compares” Nerdwallet, January 27th 2022,
+[^Tiffany]: Tiffany Lam-Balfour, Elizabeth Ayoola “Wealthfront Review 2022: Pros, Cons and How It Compares” Nerdwallet, January 27th 2022,
 https://www.nerdwallet.com/reviews/investing/advisors/wealthfront
 
-Stackshare “Wealthsimple”, Stackshare, 2022
+[^Stackshare]:Stackshare “Wealthsimple”, Stackshare, 2022
 https://stackshare.io/wealthsimple/wealthsimple
 
-Curchbase “ Weathsimple” Curchbase, February 13th 2022
+[^Curchbase]: Curchbase “ Weathsimple” Curchbase, February 13th 2022
 https://www.crunchbase.com/organization/wealthsimple/technology
 
-Statista “Robo-Advisors” Statista, October 2021
+[^Statista]: Statista “Robo-Advisors” Statista, October 2021
 https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/worldwide?currency=usd
 https://www.statista.com/outlook/dmo/fintech/digital-investment/robo-advisors/canada
 
-BMO “BMO News Releases” BMO January 18th 2016,
+[^BMO]: BMO “BMO News Releases” BMO January 18th 2016,
 https://newsroom.bmo.com/2016-01-18-BMO-Introduces-SmartFolio-a-Digital-Portfolio-Management-Service-to-Help-Canadian-Investors
