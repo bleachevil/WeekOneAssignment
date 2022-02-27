@@ -1,4 +1,5 @@
-# Canadian largest robo advising firm - Wealthsimple
+# Canadian largest robo advising firm
+![](https://github.com/bleachevil/WeekOneAssignment/blob/main/wealthsimple_logo-1024x341.jpg?raw=true)
 
 ## Overview and Origin:
 
